@@ -26,7 +26,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -34,8 +33,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/lhps/repo">
-    <img src="images/logo.png" alt="Logo" width="300" height="50">
+  <a href="https://github.com/lhps/gostack-desafio-fundamentos-react-native">
+    <img src="./images/logo.png" alt="Logo" width="300" height="50">
   </a>
 
   <h3 align="center"></h3>
@@ -174,10 +173,6 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
@@ -193,15 +188,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/lhps/gostack-desafio-fundamentos-react-native.svg?style=flat-square
 [contributors-url]: https://github.com/lhps/gostack-desafio-fundamentos-react-native/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/lhps/gostack-desafio-fundamentos-react-native.svg?style=flat-square
 [forks-url]: https://github.com/lhps/gostack-desafio-fundamentos-react-native/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/lhps/gostack-desafio-fundamentos-react-native.svg?style=flat-square
 [stars-url]: https://github.com/lhps/gostack-desafio-fundamentos-react-native/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/lhps/gostack-desafio-fundamentos-react-native.svg?style=flat-square
 [issues-url]: https://github.com/lhps/gostack-desafio-fundamentos-react-native/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+
 <!-- [license-url]: -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lucas-henrique-pinho-silva-838300153/
